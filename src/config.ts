@@ -2,6 +2,6 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = 'Abdulazeez|Digital Marketer';
-export const SITE_DESCRIPTION = 'Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.';
+export const SITE_DESCRIPTION = 'Am a professional of digital marketer who leverages digital channels and tools to drive brand awareness,engagement conversion.';
 export const GENERATE_SLUG_FROM_TITLE = true
 export const TRANSITION_API = true
